@@ -1,0 +1,9 @@
+tensorflow==2.16.1
+mediapipe==0.10.14
+streamlit==1.39.0
+numpy==1.26.4
+scikit-learn==1.9.0
+joblib==1.5.3
+pandas==2.3.3
+matplotlib==3.11.1
+seaborn==0.13.2
